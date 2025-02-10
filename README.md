@@ -1,5 +1,5 @@
 # To-Do List
-!(screenshot.png)
+![lista-de-tarefas](screenshot.png)
 ## Sobre o Projeto
 
 Este é um projeto simples de To-Do List desenvolvido com **HTML**, **CSS** e **JavaScript**. O objetivo é criar uma lista de tarefas interativa, onde o usuário pode adicionar, marcar como concluída e excluir tarefas.
